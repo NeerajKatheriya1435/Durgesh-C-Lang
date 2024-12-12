@@ -1,0 +1,14 @@
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\bin\Debug\net9.0\MyProject.exe
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\bin\Debug\net9.0\MyProject.deps.json
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\bin\Debug\net9.0\MyProject.runtimeconfig.json
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\bin\Debug\net9.0\MyProject.dll
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\bin\Debug\net9.0\MyProject.pdb
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\obj\Debug\net9.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfoInputs.cache
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfo.cs
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\obj\Debug\net9.0\MyProject.csproj.CoreCompileInputs.cache
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\obj\Debug\net9.0\MyProject.dll
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\obj\Debug\net9.0\refint\MyProject.dll
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\obj\Debug\net9.0\MyProject.pdb
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\obj\Debug\net9.0\MyProject.genruntimeconfig.cache
+D:\Online_Class_Tutorials\Durgesh C#\MyProject\obj\Debug\net9.0\ref\MyProject.dll

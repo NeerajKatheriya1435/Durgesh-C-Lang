@@ -42,11 +42,32 @@ namespace MyProject
             // Console.WriteLine(number2.GetType());
             // Console.WriteLine(number3.GetType());
 
-            int number1 = 7;
-            int number2 = 9;
-            Console.Write("The sum of two number is: ");
-            Console.Write(number1 + number2);
+            // int number1 = 7;
+            // int number2 = 9;
+            // Console.Write("The sum of two number is: ");
+            // Console.Write(number1 + number2);
 
+            // String Methods
+            // Console input
+
+            string str = "Durgesh is a Good boy";
+
+            // string manipString = str.ToUpper();
+            // string manipString = str.ToLower();
+            // string manipString = str.Replace("Good", "Bad");
+
+            // bool manipString = str.StartsWith("durgesh"); //pascal convetion  smallCamelCaseConvetion
+            // bool manipString = str.Contains("boy");
+            // bool manipString = str.Contains("boy");
+            // string manipString = str.Trim();
+            // string manipString = str.TrimStart();
+            // string manipString = str.TrimEnd();
+            // string manipString = str.Insert(0, "Neeraj ");
+            // int manipString = str.IndexOf("o");
+            // int manipString = str.IndexOf("o");
+            string manipString = str.Substring(4, 6);
+
+            Console.WriteLine(manipString);
         }
     }
 }

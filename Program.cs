@@ -50,7 +50,7 @@ namespace MyProject
             // String Methods
             // Console input
 
-            string str = "Durgesh is a Good boy";
+            // string str = "Durgesh is a Good boy";
 
             // string manipString = str.ToUpper();
             // string manipString = str.ToLower();
@@ -65,9 +65,41 @@ namespace MyProject
             // string manipString = str.Insert(0, "Neeraj ");
             // int manipString = str.IndexOf("o");
             // int manipString = str.IndexOf("o");
-            string manipString = str.Substring(4, 6);
+            // string manipString = str.Substring(4, 6);
 
-            Console.WriteLine(manipString);
+            // Console.WriteLine(manipString);
+
+            // string str1 = "Tech Mech";
+            // string str2 = "Durgesh";
+
+            // string str3 = string.Format($"This is my instite {str1}  my name is: {str2}");
+            // how to reieve input
+            // string str3 = $"My name is: {str2} and institute is {str1}";  // string interpolation
+            // Console.WriteLine(str3);
+            // Console.WriteLine("Enter your string ");
+            // string str = Console.ReadLine();
+            // int var1 = int.Parse(str);
+            // int var1 = Convert.ToInt16(str);
+            // Console.WriteLine(str.GetType());
+            // Console.WriteLine(var1.GetType());
+
+            // calculator 
+            // Console.WriteLine("Enter Your First Number ");
+            // int var1 = int.Parse(Console.ReadLine());
+            // Console.WriteLine("Enter Your Second Number ");
+            // int var2 = int.Parse(Console.ReadLine());
+
+            // Console.WriteLine($"Sum is: " + (var1 + var2));
+            // Console.WriteLine($"Sub is: " + (var1 - var2));
+            // Console.WriteLine($"Mul is: " + (var1 * var2));
+            // Console.WriteLine($"Div is: " + (var1 / var2));
+
+            Console.WriteLine(@"C:Desktop\turgesh");
+            // Console.WriteLine("Chelo sihyam");
+
+
+
+
         }
     }
 }
